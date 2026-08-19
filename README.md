@@ -1,4 +1,4 @@
-# Olist Brazilian E-Commerce — Business Analysis
+# E-Commerce — Business Analysis
 
 SQL and Python analysis of the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), answering three business questions using a relational SQLite database.
 
