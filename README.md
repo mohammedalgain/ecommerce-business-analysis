@@ -39,4 +39,4 @@ While building this analysis, I found that a small number of orders had more tha
 
 ## Dataset
 
-[Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle — ~100k orders from a Brazilian e-commerce marketplace, split across 9 relational tables (orders, customers, products, sellers, reviews, payments, etc.).
+[Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle ~100k orders from a Brazilian e-commerce marketplace, split across 9 relational tables (orders, customers, products, sellers, reviews, payments, etc.).
