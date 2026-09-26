@@ -20,14 +20,6 @@ SQL and Python analysis of the [Olist Brazilian E-Commerce dataset](https://www.
 - **Python** (`pandas`, `matplotlib`, `seaborn`) — reused the validated SQL queries via `pd.read_sql()` and added visualizations (bar charts, line chart, scatter plot).
 - **Streamlit** & **Altair** — interactive business intelligence dashboard with real-time SQLite querying, strategic quadrant analysis, fulfillment metrics, and an ad-hoc SQL query console.
 
-## Interactive Dashboard
-
-An interactive Business Intelligence portal is available in [`dashboard.py`](dashboard.py).
-
-To launch the dashboard:
-```bash
-streamlit run dashboard.py
-```
 
 ### Key Dashboard Features
 - **Executive KPI Cards**: Real-time Gross Revenue, Order Volume, AOV (Average Order Value), Customer/Seller counts, Platform Rating, and Average Delivery Days.
